@@ -1,0 +1,5 @@
+config:
+  info: master branch,springcloud-config/config-prod.yml version=7 age=10 name=20
+  
+mybatis:
+  url: localhost:http://www.baidu.com
