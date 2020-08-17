@@ -1,5 +1,5 @@
 config:
-  info: master branch,springcloud-config/config-dev.yml version=7 age=10 name=20
+  info: master branch,springcloud-config/config-dev.yml version=100版本 age=10岁 name=张三
   
 mybatis:
   url: localhost:http://www.baidu.com
