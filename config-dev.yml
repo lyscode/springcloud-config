@@ -2,4 +2,4 @@ config:
   info: master branch,springcloud-config/config-dev.yml version=100 age=10000000years name=zhansan111111
   
 mybatis:
-  url: localhost:http://www.baidu.com
+  url: localhost:http://www.qq.com
